@@ -1,0 +1,17 @@
+
+  body {
+  background-color:whitesmoke;
+  font-family: 'Syne Mono', monospace;
+  }
+  h1 {
+  color:black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p {
+  color:rgb(3, 3, 3);
+  padding: 12px;
+  }
+  .center {
+  padding: 250px 0;
+  text-align: center;
+  }   
